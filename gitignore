@@ -1,0 +1,57 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# pipenv
+Pipfile.lock
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Jupyter Notebook hidden folders
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.pkl
+*.db
+*.sqlite
+*.json
+*.zip
